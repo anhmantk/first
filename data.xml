@@ -1,0 +1,51 @@
+<lib add="hn-aptech" city="Ha Noi City">
+<category id="1" name="Ngoai Ngu" parent_id="0">
+		<book id="1" catid="1" author="World Wide" piblished="2011-04-15 18:15:06.363">
+			<name>Ngoai Ngu Tong Hop</name>
+			<price>342.0</price>
+			<pageNumber>32</pageNumber>
+		</book>
+	<category id="3" name="Tieng Trung" parent_id="1">
+		<book id="2" catid="3" author="Ly Hai Phong" piblished="2011-04-15 18:15:31.670">
+			<name>Tieng Trung Cap Toc</name>
+			<price>32.0</price>
+			<pageNumber>65</pageNumber>
+		</book>
+		<book id="3" catid="3" author="Trac Phong" piblished="2011-04-15 18:16:19.143">
+			<name>Tieng Trung Co Ban</name>
+			<price>43.0</price>
+			<pageNumber>74</pageNumber>
+		</book>
+	</category>
+	<category id="4" name="Tieng Han" parent_id="1">
+	</category>
+	<category id="5" name="Tieng Nhat" parent_id="1">
+	</category>
+	<category id="7" name="Tieng Duc" parent_id="1">
+	</category>
+</category>
+<category id="2" name="Van Hoc" parent_id="0">
+	<category id="8" name="Van Hoc Dan Gian" parent_id="2">
+	</category>
+	<category id="9" name="Truyen Ngan" parent_id="2">
+	</category>
+	<category id="10" name="Tho Tinh" parent_id="2">
+		<book id="4" catid="10" author="Nguyen Du" piblished="2011-04-15 18:16:48.003">
+			<name>Truyen Kieu</name>
+			<price>12.0</price>
+			<pageNumber>45</pageNumber>
+		</book>
+	<category id="11" name="Nguyen Khuyen" parent_id="10">
+	</category>
+	<category id="12" name="Nguyen Du" parent_id="10">
+	</category>
+	</category>
+</category>
+<category id="13" name="Tong Hop" parent_id="0">
+		<book id="5" catid="13" author="World Wide" piblished="2011-04-15 18:17:36.770">
+			<name>Bach Khoa Toan Thu</name>
+			<price>150.0</price>
+			<pageNumber>1020</pageNumber>
+		</book>
+</category>
+</lib>
